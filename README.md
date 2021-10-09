@@ -25,6 +25,16 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# Welcome
+## Systems neuroscience and artificial intelligence 
+
+- [Digit classification website](https://zanderow.github.io/digit_classification_website/tfjs.html)
+
+- [Digit classification website with data augmentation](https://zanderow.github.io/digit_classification_website_with_data_augmentation/tfjs.html)
+
+Code is used and adapted with permission mainly from 
+  - [Deploying a Simple Machine Learning Model into a WebApp using TensorFlow.js](https://towardsdatascience.com/deploying-a-simple-machine-learning-model-into-a-wenapp-using-tensorflow-js-3609c297fb04) by Carlos Aguayo
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
